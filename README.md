@@ -131,7 +131,6 @@ npm start
 ## Author
 
 **Gollapalli Santhosh Kumar**
-Cloud Computing Student
 SRM University AP
 
 ---
